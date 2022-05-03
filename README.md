@@ -122,6 +122,7 @@ Nuveo | https://www.nuveo.ai/
 Núcleo Digital | http://www.nucleodigital.cc
 Objective | https://www.objective.com.br/
 Olist | https://olist.com
+Olx Brasil | https://www.olx.com.br/
 Pagseguro | https://pagseguro.uol.com.br/
 Parafuzo | http://www.parafuzo.com
 Pede Pronto | https://pedepronto.com.br/
